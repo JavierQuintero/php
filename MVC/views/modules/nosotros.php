@@ -1,1 +1,1 @@
-<h1>Nosotros</h1>
+<h1>NOSOTROS</h1>
