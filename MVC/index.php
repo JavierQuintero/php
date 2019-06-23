@@ -12,6 +12,7 @@
  mas de una vez. */
 
  require_once "controllers/controlador.php";
+ require_once "models/model.php";
 
      $mvc = new MvcController();
      $mvc -> plantilla();
