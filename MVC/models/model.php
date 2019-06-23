@@ -11,7 +11,7 @@
                      $enlacesModel == "blog"     ||
                      $enlacesModel == "contacto"  ){
                     
-                        $module ="views/modules/".$enlacesModel.".php";
+                        $module ="views/modules/elem/".$enlacesModel.".php";
                 
                         return $module;
                     }
